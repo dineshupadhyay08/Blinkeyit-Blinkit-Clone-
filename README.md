@@ -19,9 +19,6 @@ A full-stack grocery e-commerce web application inspired by Blinkit, built using
 - **Authentication:** JWT, OTP verification
 - **Version Control:** Git & GitHub
 
-## 📸 Screenshots (Optional)
-_Add some screenshots here later_
-
 ## 📂 Project Setup
 Clone the repo:
 ```bash
